@@ -31,7 +31,3 @@ Designed to help you **track income, expenses, and visualize spending** — and 
   - Cumulative balance over time (Line Chart)
 - CSV download for filtered data
 - Deployable to **Streamlit Cloud** or Docker
-
----
-
-## 🗂 Project Structure
